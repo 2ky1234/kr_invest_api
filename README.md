@@ -10,20 +10,20 @@ poetry add : add기능을 활용하여 pyproject.toml파일에 해당 패키지�
 
 # config.yaml 파일 생성필요
 
-APP_KEY:
-APP_SECRET: 
-계좌번호 앞 8자리
-CANO:
-계좌번호 뒤 2자리
-ACNT_PRDT_CD:
+APP_KEY:<br/>
+APP_SECRET: <br/>
+계좌번호 앞 8자리<br/>
+CANO:<br/>
+계좌번호 뒤 2자리<br/>
+ACNT_PRDT_CD:<br/>
 
-실전투자
-URL_BASE: "https://openapi.koreainvestment.com:9443"
-or
-모의투자
-URL_BASE: "https://openapivts.koreainvestment.com:29443"
+실전투자<br/>
+URL_BASE: "https://openapi.koreainvestment.com:9443"<br/>
+or<br/>
+모의투자<br/>
+URL_BASE: "https://openapivts.koreainvestment.com:29443"<br/>
 
-Webhook URL
-WEBHOOK_URL:
+Webhook URL<br/>
+WEBHOOK_URL:<br/>
 
-등의 정보를 담은 
+등의 정보 작성 필요 <br/>
